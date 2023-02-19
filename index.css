@@ -1,0 +1,17 @@
+body {
+    background-color: #f9ffff;
+}
+
+p {
+    margin: 0;
+    text-indent: 2rem;
+    text-align: justify;
+  }
+  
+.wd-center {
+  align-items: center;
+}
+
+tr{
+    border-color: #f9ffff;
+}
